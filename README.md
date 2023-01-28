@@ -1,6 +1,5 @@
 # SpaceshipTitanic
 
-
 ## Overview 
 This project uses machine learning to predict which passengers are transported to an alternate dimension.
 
