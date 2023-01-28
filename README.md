@@ -1,6 +1,5 @@
 # Spaceship Titanic
 
-## Overview 
 This project uses machine learning to predict which passengers are transported to an alternate dimension.
 
 This code has been written using Python version 3.7, through an ipynb file using Jupyter notebook. The project notebook is included in this repository and is called ‘Spaceship_Titanic.ipynb’. This will show the fully executed version of all the code used in our project. The data for this project can be accessed on Kaggle.com at the link below. 
