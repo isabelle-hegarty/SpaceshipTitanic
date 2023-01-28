@@ -35,11 +35,6 @@ These include:
 - `lightgbm`
 
 
-These can be installed by executing the following command in Anaconda Prompt.
-
-`conda install pandas matplotlib numpy seaborn sklearn xgboost lightgbm`
-
-
 ## Notebook Structure
 The notebook is divided into 4 sections: data exploration, feature engineering, data modelling and prediction. The entire notebook can be executed at once by pressing Cells > Run All or by typing `Ctrl + A` followed by `Shift + Enter`. Individual cells can be executed with `Shift + Enter`.   
 
