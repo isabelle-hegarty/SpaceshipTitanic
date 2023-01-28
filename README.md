@@ -15,19 +15,11 @@ https://www.kaggle.com/competitions/spaceship-titanic
 
 
 ## Installation
-You can download the repository by clicking the green ‘Code’ button and selecting ‘Download ZIP’ as seen below. 
-
-<a href="https://ibb.co/K5hVKB4"><img src="https://i.ibb.co/Prj1DJX/download.png" alt="download" border="0"></a>
-
-This will download the relevant Jupyter notebook file ‘Spaceship_Titanic.ipynb’.
+You can download the repository by clicking the green ‘Code’ button and selecting ‘Download ZIP’. This will download the relevant Jupyter notebook file ‘Spaceship_Titanic.ipynb’.
 
 In order to use Jupyter Noteboooks, you must have Anaconda downloaded. This can be downloaded from the <a href="https://www.anaconda.com/products/distribution">Anaconda website</a>. For further instruction on downloading Anaconda, please follow <a href="https://www.geeksforgeeks.org/how-to-install-anaconda-on-windows/">this link</a>. 
 
-To open the code, you must first open Jupyter Notebooks. This can be done through Anaconda Navigator, by clicking Launch on Jupyter Notebook as seen below. 
-
-<a href="https://ibb.co/f9GJ1yX"><img src="https://i.ibb.co/Qkj0bTJ/launch.png" alt="launch" border="0"></a>
-
-Once in Jupyter Notebooks, go to the folder where you have saved the file and click to open the file. You will need to extract the zipped folder before opening it in Jupyter. 
+To open the code, you must first open Jupyter Notebooks. This can be done through Anaconda Navigator, by clicking Launch on Jupyter Notebook. Once in Jupyter Notebooks, go to the folder where you have saved the file and click to open the file. You will need to extract the zipped folder before opening it in Jupyter. 
 
 ## Packages
 
@@ -36,11 +28,11 @@ The necessary packages to run all of the code are found at the top of the Python
 These include:
 - `pandas`
 - `matplotlib`
-- 'numpy'
+- `numpy`
 - `seaborn`
 - `sklearn`
 - `xgboost`
-- 'lightgbm'
+- `lightgbm`
 
 
 These can be installed by executing the following command in Anaconda Prompt.
@@ -59,7 +51,7 @@ This section performs exploratory data analysis on the given dataset, generating
 ### Feature Engineering
 In this section, the given variables are transformed in order to improve our model performance. 
   
-### Partial least squares regression
+### Data Modelling
 This section implements, tunes and compares three models: XGBoost, Light GBM and Logistic Regression. 
 
 ### Data Exploration
